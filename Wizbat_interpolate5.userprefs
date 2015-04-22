@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Wizard.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Knockback.cs" Line="34" Column="54" />
+      <File FileName="Assets\Scripts\Wizard.cs" Line="131" Column="24" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="288" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
